@@ -1,5 +1,5 @@
 {
   "pessoas": [
-    { "id": 1, "name": "Maria", "idade": 48 }
+    { "id": 1, "nome": "Maria", "idade": 48 }
   ]
 }
